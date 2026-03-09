@@ -41,8 +41,6 @@ nav.scrolled {
 .logo-icon {
     width: 34px;
     height: 34px;
-    background: var(--gradient-primary);
-    border-radius: var(--radius-xs);
     display: flex;
     align-items: center;
     justify-content: center;
