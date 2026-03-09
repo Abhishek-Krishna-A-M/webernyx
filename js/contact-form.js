@@ -62,7 +62,7 @@ contactForm?.addEventListener('submit', async (e) => {
     try {
         /**
          * Real-world implementation:
-         * const response = await fetch('https://api.webernyx.com/contact', {
+         * const response = await fetch('https://api.webernyx.in/contact', {
          * method: 'POST',
          * body: JSON.stringify(data)
          * });
